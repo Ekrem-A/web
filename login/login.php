@@ -6,7 +6,7 @@ if($_SERVER["REQUEST_METHOD"]=="POST")
     if($mail=="b191200046@sakarya.edu.tr" && $sifre=="3434")
     {
         echo "<h1 class='display-2'> Hoşgeldin B191200046 </h1>";
-        header("Refresh: 2; url=index.html");
+        header("Refresh: 2; url=../index.html");
     }
     else
     {
@@ -16,10 +16,5 @@ if($_SERVER["REQUEST_METHOD"]=="POST")
 }
 
 ?>
-<style type="text/css">
-    h1{text-align: center;
-        margin-top:5%;
-    }
 
-</style>
 
