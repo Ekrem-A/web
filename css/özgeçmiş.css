@@ -1,3 +1,14 @@
 body{
-    background-color: lightgreen;
+    background-color: hsl(197, 100%, 50%);
 }
+
+.sayfa{width: 70%; margin: 1% 15% 2% 15%;}
+.bir{width: 30%; float: left; background-color: hsl(197, 100%, 50%) ; margin-top: 3%;}
+.iki{width: 68%; float: left; margin-top: 8%;}
+h1{color: white; text-align: center;}
+p{color: lightgrey; margin: 2% 2% 2% 4%;}
+li{color: lightgrey; margin: 2% 2% 2% 1%;}  
+table{margin: 2% 2% 2% 2%;}
+img{ margin: 2% 2% 2% 18%;}
+#ikincitable{margin: 5% 2% 2% 18%; background-color: hsl(197, 100%, 50%) ; border-radius: 2%; width: 69%;}
+#beceri{margin: 4% 2% 2% 18%; width: 69%;  background-color: hsl(197, 100%, 50%) ; border-radius: 2%;}
