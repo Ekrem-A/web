@@ -31,7 +31,7 @@ header("Refresh: 10; url=../index.html");
 else
 {
     echo "HATA";
-    header("Refresh: 2; url=iletişim.html");
+    header("Refresh: 2; url=../iletişim.html");
 }
 ?>
 
