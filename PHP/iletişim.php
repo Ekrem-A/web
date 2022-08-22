@@ -24,7 +24,7 @@ echo"OKUL:".$okul."<br>";
 echo"ADRES:".$adres."<br>";
 
 echo "<h1 class='display-4'>ANA SAYFAYA YÖNLENDİRİLİYORSUNUZ. LÜTFEN BEKLEYİN...</h1><br><br><br>";
-header("Refresh: 10; url=../index.html");
+header("Refresh: 15; url=../index.html");
 
 }
 
