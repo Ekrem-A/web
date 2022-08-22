@@ -17,6 +17,6 @@ img{ margin: 2% 2% 2% 18%;}
 footer {
     text-align: center;
     padding: 3px;
-    background-color: rgb(255, 0, 0);
+    background-color: hsl(197, 100%, 50%);
     color: white;
   }
