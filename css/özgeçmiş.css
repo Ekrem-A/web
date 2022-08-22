@@ -12,3 +12,11 @@ table{margin: 2% 2% 2% 2%;}
 img{ margin: 2% 2% 2% 18%;}
 #ikincitable{margin: 5% 2% 2% 18%; background-color: hsl(197, 100%, 50%) ; border-radius: 2%; width: 69%;}
 #beceri{margin: 4% 2% 2% 18%; width: 69%;  background-color: hsl(197, 100%, 50%) ; border-radius: 2%;}
+
+
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: rgb(255, 0, 0);
+    color: white;
+  }

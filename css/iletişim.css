@@ -4,3 +4,9 @@ body{
 
 .sayfa{width: 90%; height: auto; margin: 3% 10% 3% 15%;}
 
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: rgb(255, 0, 0);
+    color: white;
+  }
