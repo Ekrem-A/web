@@ -1,5 +1,5 @@
 body{
-    background-color: lightgreen;
+    background-color: hsl(197, 100%, 50%);
 }
 
 .sayfa{width: 90%; height: auto; margin: 3% 10% 3% 15%;}
